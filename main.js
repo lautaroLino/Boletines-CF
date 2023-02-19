@@ -1,10 +1,3 @@
-
-/*let links = document.querySelectorAll("a");
-
-links.forEach(function(link) {
-    console.log(link);
-});*/
-
 // Obtener los elementos de la clase .close
 
 let links = document.querySelectorAll(".close");
